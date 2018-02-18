@@ -1,7 +1,7 @@
 body {
   font-family: 'Poiret One', cursive;
   padding-top: 54px;
-  color: #868e96;
+  color: #2e3033;
 }
 
 @media (min-width: 992px) {
@@ -23,12 +23,12 @@ h6 {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 4rem;
   line-height: 5.5rem;
 }
 
 h2 {
-  font-size: 3.5rem;
+  font-size: 3rem;
 }
 
 .subheading {
